@@ -1,0 +1,6 @@
+@AdminPro.Lite.WebApi_HostAddress = http://localhost:5082
+
+GET {{AdminPro.Lite.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
